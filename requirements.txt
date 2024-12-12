@@ -57,4 +57,4 @@ urllib3==2.2.3
 watchdog==6.0.0
 yellowbrick==1.5
 streamlit==1.40.2
-python3.12-distutils
+
